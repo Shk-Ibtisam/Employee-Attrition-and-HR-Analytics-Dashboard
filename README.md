@@ -38,7 +38,6 @@ Male employees (140) leave at nearly double the rate of female employees (79).
 📂 Files in this Repo
 HR_Attrition_Dashboard.pbix — Power BI dashboard file
 dataset.csv — source dataset used for analysis
-screenshots/ — dashboard preview images
 
 🚀 How to Use
 Clone this repository
