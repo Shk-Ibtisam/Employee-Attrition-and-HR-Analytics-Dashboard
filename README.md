@@ -1,5 +1,4 @@
 Employee Attrition & HR Analytics Dashboard
-
 📊 Overview
 
 An interactive Power BI dashboard analyzing employee attrition patterns across a 1,470-employee organization. The dashboard identifies who is leaving, why, and where HR should focus retention efforts — using department filters, gender breakdowns, and role-level attrition analysis.
@@ -12,7 +11,6 @@ To help HR and management move from reactive to proactive workforce planning by 
 Power BI Desktop — dashboard design, DAX measures, data modeling
 Power Query — data cleaning and transformation
 DAX — calculated KPIs (Attrition Rate, Avg Salary, Avg Tenure, etc.)
-
 📈 Key Metrics (KPIs)
 Total Employees: 1,470
 Employees Left: 237
@@ -38,8 +36,15 @@ Most attrition occurs very early in tenure (within the first year of service).
 Male employees (140) leave at nearly double the rate of female employees (79).
 
 📂 Files in this Repo
-HR_Attrition_Dashboard.pdf — Power BI dashboard file pdf
+HR_Attrition_Dashboard.pbix — Power BI dashboard file
 dataset.csv — source dataset used for analysis
+screenshots/ — dashboard preview images
+
+🚀 How to Use
+Clone this repository
+Open HR_Attrition_Dashboard.pbix in Power BI Desktop
+Use the Select Department slicer to filter insights by department
+Explore attrition patterns across education, age, salary, tenure, and job role visuals
 
 👤 Author
 Muhammad Ibtisam
